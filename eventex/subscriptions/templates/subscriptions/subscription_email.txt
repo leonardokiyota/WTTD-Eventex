@@ -12,7 +12,7 @@ Telefone: {{ phone }}
 
 Em até 48 horas úteis, a nossa equipe entrará
 e, comtato com você para concluirmos a sua
-matrícula
+matrícula.
 
 Alenciosamente,
 --
