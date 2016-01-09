@@ -7,3 +7,4 @@ __pycache__
 .directory
 wttd.nja
 staticfiles
+.ipynb_checkpoints/
